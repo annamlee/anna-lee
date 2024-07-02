@@ -1,0 +1,13 @@
+.projects-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+    padding: 0px 15px;
+}
+
+/* *********** For smaller screen sizes *********** */
+@media (max-width: 768px) {
+    .projects-container {
+        grid-template-columns: 1fr;
+    }
+}

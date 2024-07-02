@@ -1,0 +1,17 @@
+.skill-item {
+    margin: 23px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill-logo {
+    width: 90px;
+    height: 90px;
+}
+
+.skill-title {
+    text-align: center;
+    font-weight: bold;
+}

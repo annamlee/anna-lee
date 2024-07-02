@@ -1,0 +1,55 @@
+.sidebar {
+    border: 2px solid;
+    width: 250px;
+    padding: 35px;
+    margin: 0px 50px;
+    text-align: center;
+    align-self: center;
+    border-radius: 15%;
+    border: none;
+    background-color: #f2d1cc;
+    box-shadow: var(--shadow);
+}
+
+.profile-pic {
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    border: 3px solid var(--green);
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.contact-item p {
+    margin-left: 8px;
+}
+  
+.social-icon {
+    color: black;
+    cursor: pointer;
+    transition: transform 0.3s, color 0.3s;
+}
+  
+.social-icon:hover {
+    transform: scale(1.3);
+    fill: var(--green);
+}
+
+/************ For smaller screen sizes ************/
+@media (max-width: 768px) {
+    .sidebar {
+        margin-top: 35px;
+        width: 80%;
+        padding: 10px 2px;
+        justify-content: space-between;
+    }
+
+    .profile-pic {
+        width: 150px;
+        height: 150px;
+    }
+}

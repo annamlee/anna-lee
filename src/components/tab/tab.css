@@ -1,0 +1,29 @@
+.tab {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 15px;
+    margin-left: 5px;
+    background-color: #e4d3c1;
+    border-radius: 25px 25px 0px 0px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.tab:hover {
+    background-color: #ddc0a2;
+}
+
+#active-tab {
+    color: white;
+    background-color: var(--green);
+    border: 3px solid var(--green);
+}
+
+/************ For smaller screen sizes ************/
+@media (max-width: 768px) {
+    .tab {
+        font-size: 16px;
+        text-align: center;
+    }
+}
