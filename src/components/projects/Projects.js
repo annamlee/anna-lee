@@ -11,7 +11,7 @@ const Projects = () => {
             website to learn ReactJS and showcase some of my\
             projects along the way.",
             gitLink: "https://github.com/annamlee/anna-lee",
-            link: ""
+            link: "https://annamlee.me"
         },
         {
             title: "developer journal",
