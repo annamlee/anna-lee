@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import "./main.css";
-import Sidebar from "../sidebar/Sidebar";
 import Tab from "../tab/Tab";
 import About from "../about/About";
 import Projects from "../projects/Projects";
