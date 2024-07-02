@@ -17,8 +17,8 @@ const Projects = () => {
             title: "developer journal",
             stack: "HTML, CSS, JavaScript",
             desc: "a web application that consists of a calendar,\
-            a markdown editor, and an integrated project and task manager.\
-            built with a team of 8+ developers utilizing Agile sprints.",
+            a markdown editor, and an integrated project and task manager\
+            system. built with a team of 8+ developers utilizing Agile sprints.",
             gitLink: "https://github.com/annamlee/developer-journal",
             link: "https://digitaldr3amt3am-journal.netlify.app/"
         },
