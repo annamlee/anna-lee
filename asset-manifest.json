@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anna-lee/static/css/main.4bd8935e.css",
-    "main.js": "/anna-lee/static/js/main.dd0f8244.js",
+    "main.js": "/anna-lee/static/js/main.a216cc19.js",
     "static/js/453.8e59ca30.chunk.js": "/anna-lee/static/js/453.8e59ca30.chunk.js",
     "static/media/profile-picture.jpg": "/anna-lee/static/media/profile-picture.cce80bc5bf2b3694aebb.jpg",
     "static/media/bash-icon-svgrepo-com.svg": "/anna-lee/static/media/bash-icon-svgrepo-com.12b9574c657e4e3629a692b1f78fdb65.svg",
@@ -21,11 +21,11 @@
     "static/media/email.svg": "/anna-lee/static/media/email.cad5e59deea00679806b77477670751d.svg",
     "static/media/location.svg": "/anna-lee/static/media/location.f3c1d3734e5323e349f2461a64f61e8d.svg",
     "main.4bd8935e.css.map": "/anna-lee/static/css/main.4bd8935e.css.map",
-    "main.dd0f8244.js.map": "/anna-lee/static/js/main.dd0f8244.js.map",
+    "main.a216cc19.js.map": "/anna-lee/static/js/main.a216cc19.js.map",
     "453.8e59ca30.chunk.js.map": "/anna-lee/static/js/453.8e59ca30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bd8935e.css",
-    "static/js/main.dd0f8244.js"
+    "static/js/main.a216cc19.js"
   ]
 }
