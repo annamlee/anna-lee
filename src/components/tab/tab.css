@@ -23,6 +23,7 @@
 /************ For smaller screen sizes ************/
 @media (max-width: 768px) {
     .tab {
+        color: black;
         font-size: 16px;
         text-align: center;
     }
