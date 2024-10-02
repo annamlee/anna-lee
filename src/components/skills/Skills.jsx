@@ -3,7 +3,7 @@ import "./skills.css";
 import SkillItem from "../skill-item/SkillItem";
 import javaLogo from "../../assets/img/java-svgrepo-com.svg";
 import pythonLogo from "../../assets/img/python-svgrepo-com.svg";
-import nextLogo from "../../assets/img/nextjs-fill-svgrepo-com.svg";
+import nodeLogo from "../../assets/img/node-js-svgrepo-com.svg";
 import reactLogo from "../../assets/img/react-svgrepo-com.svg";
 import htmlLogo from "../../assets/img/html5-svgrepo-com.svg";
 import cssLogo from "../../assets/img/css3-svgrepo-com.svg";
@@ -26,12 +26,12 @@ const Skills = () => {
             logo: pythonLogo
         },
         {
-            title: "NextJS",
-            logo: nextLogo
-        },
-        {
             title: "ReactJS",
             logo: reactLogo
+        },
+        {
+            title: "NodeJS",
+            logo: nodeLogo
         },
         {
             title: "HTML",
@@ -72,7 +72,7 @@ const Skills = () => {
         <>
             <header>
                 <h1>skills</h1>
-                <h4>tech i'm comfortable with!</h4>
+                <h4>tools i'm proficient in</h4>
             </header>
 
             <div className="skills-container">
