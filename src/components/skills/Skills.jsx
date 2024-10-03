@@ -72,7 +72,7 @@ const Skills = () => {
         <>
             <header>
                 <h1>skills</h1>
-                <h4>tools i'm proficient in</h4>
+                <h4>tools i'm proficient in.</h4>
             </header>
 
             <div className="skills-container">
