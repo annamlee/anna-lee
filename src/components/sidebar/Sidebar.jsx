@@ -8,16 +8,16 @@ const Sidebar = () => {
     return (
         <div className="sidebar">
             <img src={profilePic} alt="profile pic" className="profile-pic" />
-            <h2>anna m. lee</h2>
-            <p>cs student @ uc san diego</p>
+            <h2>Anna M. Lee</h2>
+            <p>CS Student @ UC San Diego</p>
             <div className="contact-info">
+                <span className="contact-item">
+                    <img src={location} alt="" />
+                    <p>SF Bay Area, San Diego</p>
+                </span>
                 <span className="contact-item">
                     <img src={email} alt="" />
                     <p>annamlee204@gmail.com</p>
-                </span>
-                <span className="contact-item">
-                    <img src={location} alt="" />
-                    <p>sf bay area, san diego</p>
                 </span>
                 <span className="contact-item">
                     <a href="https://www.linkedin.com/in/annamlee204/" target="_blank" rel="noopener noreferrer">

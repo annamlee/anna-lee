@@ -5,29 +5,29 @@ import ProjectCard from "../project-card/ProjectCard";
 const Projects = () => {
     const projectList = [
         {
-            title: "personal porfolio",
+            title: "Personal Portfolio",
             stack: "ReactJS, HTML, CSS, JavaScript",
-            desc: "the site you're currently on! i developed this\
+            desc: "The site you're currently on! I developed this\
             website to learn ReactJS and showcase some of my\
             projects along the way.",
             gitLink: "https://github.com/annamlee/anna-lee",
             link: "https://annamlee.me"
         },
         {
-            title: "developer journal",
+            title: "Developer Journal",
             stack: "HTML, CSS, JavaScript",
-            desc: "a web application that consists of a calendar,\
+            desc: "A web application that consists of a calendar,\
             a markdown editor, and an integrated project and task manager\
-            system. built with a team of 8+ developers utilizing Agile sprints.",
+            system. Built with a team of 9 developers utilizing Agile sprints.",
             gitLink: "https://github.com/annamlee/developer-journal",
             link: "https://digitaldr3amt3am-journal.netlify.app/"
         },
         {
-            title: "sentiment rating",
+            title: "Sentiment Rating",
             stack: "HTML, CSS, JavaScript",
-            desc: "a widget that has users log their emotions and\
+            desc: "A widget that has users log their emotions and\
             outputs a percentage breakdown of how often each emotion\
-            is logged. built with a team of 8+ developers.",
+            is logged. Built with a team of 9 developers.",
             gitLink: "https://github.com/annamlee/sentiment-rating",
             link: "https://cse110-sp24-group33.github.io/warmup-exercise/"
         }
@@ -36,8 +36,8 @@ const Projects = () => {
     return (
         <>
             <header>
-                <h1>projects</h1>
-                <h4>a list of my projects!</h4>
+                <h1>Projects</h1>
+                <h4>A list of my projects!</h4>
             </header>
 
             <div className="projects-container">

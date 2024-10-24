@@ -26,9 +26,9 @@ const Main = () => {
         <div className="main-container">
             <main className="window-container">
                 <div className="tabs-container">
-                    <Tab label="about" onTabClick={() => setActiveTab("about")} isActive={activeTab === "about"} />
-                    <Tab label="projects" onTabClick={() => setActiveTab("projects")} isActive={activeTab === "projects"} />
-                    <Tab label="skills" onTabClick={() => setActiveTab("skills")} isActive={activeTab === "skills"} />
+                    <Tab label="About" onTabClick={() => setActiveTab("about")} isActive={activeTab === "about"} />
+                    <Tab label="Projects" onTabClick={() => setActiveTab("projects")} isActive={activeTab === "projects"} />
+                    <Tab label="Skills" onTabClick={() => setActiveTab("skills")} isActive={activeTab === "skills"} />
                 </div>
                 <div className="content-container">
                     <div className="tab-content">
