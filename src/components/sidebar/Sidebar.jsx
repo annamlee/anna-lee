@@ -20,7 +20,7 @@ const Sidebar = () => {
                     <p>annamlee204@gmail.com</p>
                 </span>
                 <span className="contact-item">
-                    <a href="https://www.linkedin.com/in/annamlee204/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/annamlee24/" target="_blank" rel="noopener noreferrer">
                         <svg
                             className="social-icon"
                             width="25"
