@@ -5,6 +5,16 @@ import ProjectCard from "../project-card/ProjectCard";
 const Projects = () => {
     const projectList = [
         {
+            title: "Schoolhouse Ghana",
+            stack: "MongoDB, Express.js, React, Node.js",
+            desc: "Commissioned by the GodFreds Foundation and the \
+            UCSD Global Ties program, designed and built a full-stack\
+            file-sharing platform for the SAS (Semanhyiya American \
+            School) in Senase, Ghana.",
+            gitLink: "https://github.com/UCSD-Global-TIES",
+            link: "https://github.com/UCSD-Global-TIES/react-schoolhouse-ghana/blob/master/README.md#installation"
+        },
+        {
             title: "Personal Portfolio",
             stack: "ReactJS, HTML, CSS, JavaScript",
             desc: "The site you're currently on! I developed this\
