@@ -10,7 +10,7 @@ const About = () => {
             
             <p>Welcome to my portfolio!</p>
             <p>I am currently a third year undergraduate student majoring in
-                Computer Science and minoring in Business Economics. I hold a keen
+                Computer Science and minoring in Business Analytics. I hold a keen
                 interest in building user-oriented applications and utilizing the 
                 curious power of code to solve problems.
             </p>
